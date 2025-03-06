@@ -114,11 +114,6 @@ Feel free to open issues or pull requests for improvements or new features!
 
 ---
 
-# Author
-Harsh Soni  
-Let's connect and discuss more about Terraform, AWS, and DevOps!
----
-
 ## Credit
 
 This project was **inspired** by the amazing idea of [Harsh Soni](https://github.com/iam-harshsoni). A huge thanks for sharing the quality videos and resources with the community!
