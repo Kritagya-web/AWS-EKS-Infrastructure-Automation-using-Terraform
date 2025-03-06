@@ -117,3 +117,32 @@ Feel free to open issues or pull requests for improvements or new features!
 # Author
 Harsh Soni  
 Let's connect and discuss more about Terraform, AWS, and DevOps!
+---
+
+## Credit
+
+This project was **inspired** by the amazing idea of [Harsh Soni](https://github.com/iam-harshsoni). A huge thanks for sharing the quality videos and resources with the community!
+
+---
+
+## Connect with Me
+
+For any questions or discussions, feel free to reach out:
+
+- **GitHub**: [Kritagya-web](https://github.com/Kritagya-web/)
+- **LinkedIn**: [Kritagya Kumra](https://www.linkedin.com/in/kritagya-kumra/)
+- **Portfolio**: [Portfolio](https://kritagyakumraportfolio.netlify.app/)
+
+---
+<div align="center">
+
+🚀 **Created with love ❤️ by Kritagya. Happy Learning & Secure Deployments!**
+
+</div>
+
+<div align="center">
+
+🚀  **Show some ❤️ by starring at some of the repositories!**
+
+</div>
+
